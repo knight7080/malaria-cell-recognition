@@ -176,12 +176,15 @@ plt.show()
 ![image](https://github.com/knight7080/malaria-cell-recognition/assets/88542035/ba61eaeb-7c75-4b00-885f-cc788c9a378a)
 <br>
 ### New Sample Data Prediction:
-![image](https://github.com/knight7080/malaria-cell-recognition/assets/88542035/33302b77-9772-4858-99e0-6509dc7c2a69)
-<br>
-![image](https://github.com/knight7080/malaria-cell-recognition/assets/88542035/d92feac8-4a0d-4569-ac35-0c0d5ee115ac)
-
+<img src="https://github.com/knight7080/malaria-cell-recognition/assets/88542035/33302b77-9772-4858-99e0-6509dc7c2a69" width="450" height="450">
 
 <br>
+<img src="https://github.com/knight7080/malaria-cell-recognition/assets/88542035/d92feac8-4a0d-4569-ac35-0c0d5ee115ac" width="450" height="450">
+
+
+
+
+
 
 ## RESULT:
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
